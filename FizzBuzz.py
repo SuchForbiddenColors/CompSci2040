@@ -10,4 +10,3 @@ def FB(x):
     return x    
 x = map(FB,range(1,101))
 print(list(x))
-print("Hello World")
